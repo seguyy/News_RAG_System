@@ -1,6 +1,6 @@
 # News RAG System (Retrieval-Augmented Generation)
 
-This project implements a Retrieval-Augmented Generation (RAG) pipeline over a news dataset. Given a user question, the system:
+This project implements a Retrieval-Augmented Generation (RAG) pipeline over a news dataset (information from BBC News). Given a user question, the system:
 1) retrieves the most relevant news items via similarity search, and  
 2) injects those items into a prompt to help an LLM produce a grounded answer.
 
